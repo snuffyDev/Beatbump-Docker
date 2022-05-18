@@ -1,0 +1,3 @@
+type APIBody = {
+	endpoint: "string";
+};
